@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    background-image: url("./assets/index-background.jpg");
+    background-size: cover;
+    background-position: center;
+}
